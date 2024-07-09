@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(towards_the_sun_by_xlocky_dbwke9s.jpg) no-repeat;
+    background: url(Pacific\ Drive\ 11.jpg) no-repeat;
     background-size:cover;
     background-position: center;
 }
@@ -59,6 +59,7 @@ padding: 30px 40px;
     justify-content: space-between;
     font-size: 14.5px;
     margin: -15px 0 15px;
+    padding-top: 13px;
 }
 .remember-forgot label input{
     accent-color: white;
